@@ -1,0 +1,599 @@
+[
+  {
+    "rank": 1,
+    "stats": [
+      {
+        "id": 1,
+        "number": 24
+      },
+      {
+        "id": 2,
+        "number": 6
+      },
+      {
+        "id": 3,
+        "number": 4
+      }
+    ],
+    "name": "Bayern Muenchen",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 88,
+        "rank": 1
+      },
+
+      {
+        "name": "catched",
+        "number": 32,
+        "rank": 17
+      }
+    ],
+    "points": 78
+  },
+
+  {
+    "rank": 2,
+    "stats": [
+      {
+        "id": 1,
+        "number": 23
+      },
+      {
+        "id": 2,
+        "number": 7
+      },
+      {
+        "id": 3,
+        "number": 4
+      }
+    ],
+    "name": "Borussia Dortmund",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 81,
+        "rank": 2
+      },
+
+      {
+        "name": "catched",
+        "number": 44,
+        "rank": 15
+      }
+    ],
+    "points": 76
+  },
+
+  {
+    "rank": 3,
+    "stats": [
+      {
+        "id": 1,
+        "number": 19
+      },
+      {
+        "id": 2,
+        "number": 9
+      },
+      {
+        "id": 3,
+        "number": 6
+      }
+    ],
+    "name": "RB Leipzig",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 63,
+        "rank": 5
+      },
+
+      {
+        "name": "catched",
+        "number": 29,
+        "rank": 18
+      }
+    ],
+    "points": 66
+  },
+
+  {
+    "rank": 4,
+    "stats": [
+      {
+        "id": 1,
+        "number": 18
+      },
+      {
+        "id": 2,
+        "number": 4
+      },
+      {
+        "id": 3,
+        "number": 12
+      }
+    ],
+    "name": "Bayer Leverkusen",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 69,
+        "rank": 4
+      },
+
+      {
+        "name": "catched",
+        "number": 52,
+        "rank": 10
+      }
+    ],
+    "points": 58
+  },
+
+  {
+    "rank": 5,
+    "stats": [
+      {
+        "id": 1,
+        "number": 16
+      },
+      {
+        "id": 2,
+        "number": 7
+      },
+      {
+        "id": 3,
+        "number": 11
+      }
+    ],
+    "name": "Borussia Moenchengladbach",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 55,
+        "rank": 9
+      },
+
+      {
+        "name": "catched",
+        "number": 42,
+        "rank": 16
+      }
+    ],
+    "points": 55
+  },
+
+  {
+    "rank": 6,
+    "stats": [
+      {
+        "id": 1,
+        "number": 16
+      },
+      {
+        "id": 2,
+        "number": 7
+      },
+      {
+        "id": 3,
+        "number": 11
+      }
+    ],
+    "name": "VfL Wolfsburg",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 62,
+        "rank": 6
+      },
+
+      {
+        "name": "catched",
+        "number": 50,
+        "rank": 12
+      }
+    ],
+    "points": 55
+  },
+
+  {
+    "rank": 7,
+    "stats": [
+      {
+        "id": 1,
+        "number": 15
+      },
+      {
+        "id": 2,
+        "number": 9
+      },
+      {
+        "id": 3,
+        "number": 10
+      }
+    ],
+    "name": "Eintracht Frankfurt",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 60,
+        "rank": 7
+      },
+
+      {
+        "name": "catched",
+        "number": 48,
+        "rank": 14
+      }
+    ],
+    "points": 54
+  },
+
+  {
+    "rank": 8,
+    "stats": [
+      {
+        "id": 1,
+        "number": 14
+      },
+      {
+        "id": 2,
+        "number": 11
+      },
+      {
+        "id": 3,
+        "number": 9
+      }
+    ],
+    "name": "Werder Bremen",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 58,
+        "rank": 8
+      },
+
+      {
+        "name": "catched",
+        "number": 49,
+        "rank": 13
+      }
+    ],
+    "points": 53
+  },
+
+  {
+    "rank": 9,
+    "stats": [
+      {
+        "id": 1,
+        "number": 13
+      },
+      {
+        "id": 2,
+        "number": 12
+      },
+      {
+        "id": 3,
+        "number": 9
+      }
+    ],
+    "name": "1899 Hoffenheim",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 70,
+        "rank": 3
+      },
+
+      {
+        "name": "catched",
+        "number": 52,
+        "rank": 10
+      }
+    ],
+    "points": 51
+  },
+
+  {
+    "rank": 10,
+    "stats": [
+      {
+        "id": 1,
+        "number": 13
+      },
+      {
+        "id": 2,
+        "number": 5
+      },
+      {
+        "id": 3,
+        "number": 16
+      }
+    ],
+    "name": "Fortuna Duesseldorf",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 49,
+        "rank": 11
+      },
+
+      {
+        "name": "catched",
+        "number": 65,
+        "rank": 5
+      }
+    ],
+    "points": 44
+  },
+
+  {
+    "rank": 11,
+    "stats": [
+      {
+        "id": 1,
+        "number": 11
+      },
+      {
+        "id": 2,
+        "number": 10
+      },
+      {
+        "id": 3,
+        "number": 13
+      }
+    ],
+    "name": "Hertha BSC",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 49,
+        "rank": 11
+      },
+
+      {
+        "name": "catched",
+        "number": 57,
+        "rank": 7
+      }
+    ],
+    "points": 43
+  },
+
+  {
+    "rank": 12,
+    "stats": [
+      {
+        "id": 1,
+        "number": 12
+      },
+      {
+        "id": 2,
+        "number": 7
+      },
+      {
+        "id": 3,
+        "number": 15
+      }
+    ],
+    "name": "FSV Mainz 05",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 46,
+        "rank": 13
+      },
+
+      {
+        "name": "catched",
+        "number": 57,
+        "rank": 7
+      }
+    ],
+    "points": 43
+  },
+
+  {
+    "rank": 13,
+    "stats": [
+      {
+        "id": 1,
+        "number": 8
+      },
+      {
+        "id": 2,
+        "number": 12
+      },
+      {
+        "id": 3,
+        "number": 14
+      }
+    ],
+    "name": "SC Freiburg",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 46,
+        "rank": 13
+      },
+
+      {
+        "name": "catched",
+        "number": 61,
+        "rank": 6
+      }
+    ],
+    "points": 36
+  },
+
+  {
+    "rank": 14,
+    "stats": [
+      {
+        "id": 1,
+        "number": 8
+      },
+      {
+        "id": 2,
+        "number": 9
+      },
+      {
+        "id": 3,
+        "number": 17
+      }
+    ],
+    "name": "FC Schalke 04",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 37,
+        "rank": 15
+      },
+
+      {
+        "name": "catched",
+        "number": 55,
+        "rank": 9
+      }
+    ],
+    "points": 33
+  },
+
+  {
+    "rank": 15,
+    "stats": [
+      {
+        "id": 1,
+        "number": 8
+      },
+      {
+        "id": 2,
+        "number": 8
+      },
+      {
+        "id": 3,
+        "number": 18
+      }
+    ],
+    "name": "FC Augsburg",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 51,
+        "rank": 10
+      },
+
+      {
+        "name": "catched",
+        "number": 71,
+        "rank": 1
+      }
+    ],
+    "points": 32
+  },
+
+  {
+    "rank": 16,
+    "stats": [
+      {
+        "id": 1,
+        "number": 7
+      },
+      {
+        "id": 2,
+        "number": 7
+      },
+      {
+        "id": 3,
+        "number": 20
+      }
+    ],
+    "name": "VfB Stuttgart",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 32,
+        "rank": 16
+      },
+
+      {
+        "name": "catched",
+        "number": 70,
+        "rank": 3
+      }
+    ],
+    "points": 28
+  },
+
+  {
+    "rank": 17,
+    "stats": [
+      {
+        "id": 1,
+        "number": 5
+      },
+      {
+        "id": 2,
+        "number": 6
+      },
+      {
+        "id": 3,
+        "number": 23
+      }
+    ],
+    "name": "Hannover 96",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 31,
+        "rank": 17
+      },
+
+      {
+        "name": "catched",
+        "number": 71,
+        "rank": 1
+      }
+    ],
+    "points": 21
+  },
+
+  {
+    "rank": 18,
+    "stats": [
+      {
+        "id": 1,
+        "number": 3
+      },
+      {
+        "id": 2,
+        "number": 10
+      },
+      {
+        "id": 3,
+        "number": 21
+      }
+    ],
+    "name": "FC Nuernberg",
+    "goalstats": [
+      {
+        "name": "scored",
+        "number": 26,
+        "rank": 18
+      },
+
+      {
+        "name": "catched",
+        "number": 68,
+        "rank": 4
+      }
+    ],
+    "points": 18
+  }
+
+]
+
+
+    
