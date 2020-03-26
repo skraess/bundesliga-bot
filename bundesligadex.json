@@ -15,7 +15,9 @@
         "number": 4
       }
     ],
-    "name": "Bayern Muenchen",
+    "name": "Muenchen",
+    "fullname": "FC Bayern Muenchen",
+    "image": "\"www.kaleido-services.de/bilder_extern/gbase/22920225.jpg",
     "goalstats": [
       {
         "name": "scored",
@@ -48,7 +50,8 @@
         "number": 4
       }
     ],
-    "name": "Borussia Dortmund",
+    "name": "Dortmund",
+    "fullname": "Borussia Dortmund",
     "goalstats": [
       {
         "name": "scored",
@@ -81,7 +84,8 @@
         "number": 6
       }
     ],
-    "name": "RB Leipzig",
+    "name": "Leipzig",
+    "fullname":  "RB Leipzig",
     "goalstats": [
       {
         "name": "scored",
@@ -114,7 +118,8 @@
         "number": 12
       }
     ],
-    "name": "Bayer Leverkusen",
+    "name": "Leverkusen",
+    "fullname":  "Bayer Leverkusen",
     "goalstats": [
       {
         "name": "scored",
@@ -147,7 +152,8 @@
         "number": 11
       }
     ],
-    "name": "Borussia Moenchengladbach",
+    "name": "Moenchengladbach",
+    "fullname":  "Borussia Moenchengladbach",
     "goalstats": [
       {
         "name": "scored",
@@ -180,7 +186,8 @@
         "number": 11
       }
     ],
-    "name": "VfL Wolfsburg",
+    "name": "Wolfsburg",
+    "fullname": "VfL Wolfsburg",
     "goalstats": [
       {
         "name": "scored",
@@ -213,7 +220,8 @@
         "number": 10
       }
     ],
-    "name": "Eintracht Frankfurt",
+    "name": "Frankfurt",
+    "fullname":  "Eintracht Frankfurt",
     "goalstats": [
       {
         "name": "scored",
@@ -246,7 +254,8 @@
         "number": 9
       }
     ],
-    "name": "Werder Bremen",
+    "name": "Bremen",
+    "fullname": "Werder Bremen",
     "goalstats": [
       {
         "name": "scored",
@@ -279,7 +288,8 @@
         "number": 9
       }
     ],
-    "name": "1899 Hoffenheim",
+    "name": "Hoffenheim",
+    "fullname": "TSG 1899 Hoffenheim",
     "goalstats": [
       {
         "name": "scored",
@@ -312,7 +322,8 @@
         "number": 16
       }
     ],
-    "name": "Fortuna Duesseldorf",
+    "name": "Duesseldorf",
+    "fullname": "Fortuna Duesseldorf",
     "goalstats": [
       {
         "name": "scored",
@@ -345,7 +356,8 @@
         "number": 13
       }
     ],
-    "name": "Hertha BSC",
+    "name": "Hertha",
+    "fullname": "Hertha BSC Berlin",
     "goalstats": [
       {
         "name": "scored",
@@ -378,7 +390,8 @@
         "number": 15
       }
     ],
-    "name": "FSV Mainz 05",
+    "name": "Mainz",
+    "fullname":  "1. FSV Mainz 05",
     "goalstats": [
       {
         "name": "scored",
@@ -411,7 +424,8 @@
         "number": 14
       }
     ],
-    "name": "SC Freiburg",
+    "name": "Freiburg",
+    "fullname": "SC Freiburg",
     "goalstats": [
       {
         "name": "scored",
@@ -444,7 +458,8 @@
         "number": 17
       }
     ],
-    "name": "FC Schalke 04",
+    "name": "Schalke",
+    "fullname": "FC Schalke 04",
     "goalstats": [
       {
         "name": "scored",
@@ -477,7 +492,8 @@
         "number": 18
       }
     ],
-    "name": "FC Augsburg",
+    "name": "Augsburg",
+    "fullname": "FC Augsburg",
     "goalstats": [
       {
         "name": "scored",
@@ -510,7 +526,8 @@
         "number": 20
       }
     ],
-    "name": "VfB Stuttgart",
+    "name": "Stuttgart",
+    "fullname": "VfB Stuttgart",
     "goalstats": [
       {
         "name": "scored",
@@ -543,7 +560,8 @@
         "number": 23
       }
     ],
-    "name": "Hannover 96",
+    "name": "Hannover",
+    "fullname": "Hannover 96",
     "goalstats": [
       {
         "name": "scored",
@@ -576,7 +594,8 @@
         "number": 21
       }
     ],
-    "name": "FC Nuernberg",
+    "name": "Nuernberg",
+    "fullname": "1. FC Nuernberg",
     "goalstats": [
       {
         "name": "scored",
